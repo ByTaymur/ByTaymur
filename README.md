@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hakkimda:
 Merhaba! Gömülü sistemler uzmanlığı maceramın proje defteri, bu yolculukta seninle birçok projemi paylaşacağım. Bana bu yolda STM32 ve Raspberry Pi gibi dostlarım olacak ve güzel anılarımızı birlikte yaşayacağız.
 
 
