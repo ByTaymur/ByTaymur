@@ -1,7 +1,6 @@
 # 💫 Hakkimda:
 Merhaba! Gömülü sistemler uzmanlığı maceramın proje defteri, bu yolculukta seninle birçok projemi paylaşacağım. Bana bu yolda STM32 ve Raspberry Pi gibi dostlarım olacak ve güzel anılarımızı birlikte yaşayacağız.
 
-
 ## 🌐 Sosyal Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammed-taymur-aaa770281) 
 
@@ -16,6 +15,3 @@ Merhaba! Gömülü sistemler uzmanlığı maceramın proje defteri, bu yolculukt
 
 ### 😂 Rasgele espiriler
 <img src='https://randommeme-five.vercel.app/' style="height: 600px;"/>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
