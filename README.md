@@ -64,17 +64,8 @@
 - 🖥️ **PCB Tasarımı** - Altium Designer ile profesyonel devre tasarımı
 - 📡 **IoT & Otomasyon** - Akıllı cihazlar ve endüstriyel otomasyon
 - 🔧 **RTOS** - Gerçek zamanlı işletim sistemleri
+- 📡 **LiDAR Sensörleri** - Mesafe ölçümü ve nesne algılama sistemleri
 - 🧮 **MATLAB/Simulink** - Sistem modellemesi ve simülasyon
-
----
-
-## 📊 Profil İstatistikleri
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ByTaymur&label=Profil+Görüntülenme&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ByTaymur?label=Takipçi&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ByTaymur?label=Toplam+Yıldız&style=social" alt="Stars" />
-</p>
 
 ---
 
