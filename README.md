@@ -3,16 +3,19 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammed%20Taymur&fontSize=42&fontAlignY=32&desc=Embedded%20Systems%20Engineer%20%7C%20IoT%20%7C%20Mechatronics&descAlignY=51&descAlign=50&animation=twinkling" />
 </div>
 
-<!-- Typing SVG -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Merhaba+%F0%9F%91%8B+Ben+Muhammed+Taymur;G%C3%B6m%C3%BCl%C3%BC+Sistem+M%C3%BChendisiyim;Mekatronik+M%C3%BChendisi" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Merhaba+%F0%9F%91%8B+Ben+Muhammed+Taymur;G%C3%B6m%C3%BCl%C3%BC+Sistem+M%C3%BChendisi;Mekatronik+M%C3%BChendisi;IoT+ve+Otomasyon+Uzman%C4%B1" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- Profile Views & Social -->
+<!-- Animated Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ByTaymur&label=Profil%20Ziyaretçileri&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ByTaymur?label=Takipçiler&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ByTaymur?label=Yıldızlar&style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-Expert-red?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-ARM-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB_Design-Altium-green?style=for-the-badge&logo=altium-designer&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-MQTT-purple?style=for-the-badge&logo=mqtt&logoColor=white" />
 </p>
 
 ---
@@ -62,6 +65,16 @@
 - 📡 **IoT & Otomasyon** - Akıllı cihazlar ve endüstriyel otomasyon
 - 🔧 **RTOS** - Gerçek zamanlı işletim sistemleri
 - 🧮 **MATLAB/Simulink** - Sistem modellemesi ve simülasyon
+
+---
+
+## 📊 Profil İstatistikleri
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ByTaymur&label=Profil+Görüntülenme&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ByTaymur?label=Takipçi&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ByTaymur?label=Toplam+Yıldız&style=social" alt="Stars" />
+</p>
 
 ---
 
