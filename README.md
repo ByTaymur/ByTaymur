@@ -59,63 +59,6 @@ Endüstriyel otomasyon ve gömülü sistemler alanında **4+ yıl** profesyonel 
 
 ---
 
-## 💼 İş Deneyimi
-
-### 🔹 Gömülü Yazılım Mühendisi
-**Atölye Mekatronik ve Danışmanlık A.Ş.** | *Ağustos 2020 - Devam Ediyor*
-
-- Tam otomatik kahve makinesi geliştirme (donanım + yazılım)
-- IoT altyapısı ile uzaktan izleme ve kontrol sistemi
-- ARM tabanlı kontrol kartı tasarımı
-- RTOS üzerinde çoklu thread optimizasyonu
-- Endüstriyel haberleşme protokolleri entegrasyonu
-
----
-
-## 🚀 Öne Çıkan Projeler
-
-### ☕ Tam Otomatik Espresso Kahve Makinesi (2024)
-- Çekirdekten anlık öğütme ve servis sistemi
-- IoT tabanlı uzaktan izleme ve kontrol
-- STM32 tabanlı kontrol kartı tasarımı
-- Gerçek zamanlı veri takibi ve raporlama
-
-### 🚪 LiDAR Tabanlı Otomatik Kapı Sensörü (2024)
-- LiDAR sensörü ile hassas nesne algılama
-- Akıllı kapı kontrol algoritması
-- Düşük güç tüketimi optimizasyonu
-
-### 📊 IoTBox - Endüstriyel Veri Toplama Sistemi (2022)
-- Sıcaklık, nem ve akım ölçümü
-- TCP protokolü ile veritabanı entegrasyonu
-- Uzaktan röle ve MOSFET kontrolü
-- Web tabanlı izleme arayüzü
-
-### 🏢 Toplantı Kabini Kontrol Kartı (2022)
-- LCD panel ile kullanıcı arayüzü
-- Fan, ozon, kapı kilidi ve aydınlatma kontrolü
-- Freelance proje
-
-### 👔 TextilBox - Tekstil Sektörü Otomasyon (2020)
-- Dikiş makineleri için veri toplama sistemi
-- Verimlilik takip ve raporlama
-- Web tabanlı yönetim paneli
-
-### ⚡ PMSM Motor Sürücüsü (2019 - Bitirme Tezi)
-- Yüksek verimli motor sürücü tasarımı
-- 100W asansör kapı motoru uygulaması
-- Güç elektroniği ve kontrol algoritmaları
-
----
-
-## 📜 Sertifikalar
-
-- 🎓 **EMI/EMC Sertifikası** - Ahmet Turan Algın (2023)
-- 🎓 **Altium Designer ile PCB Tasarımı** - Udemy (2020)
-- 🎓 **KOSGEB Girişimcilik Sertifikası** - TÜBİTAK (2016)
-
----
-
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
@@ -146,17 +89,6 @@ Endüstriyel otomasyon ve gömülü sistemler alanında **4+ yıl** profesyonel 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-## 💡 Uzmanlık Alanlarım
-
-- 🔌 **Gömülü Sistemler:** ARM, STM32, RTOS, Interrupt tabanlı sistemler
-- 🖥️ **PCB Tasarımı:** Altium Designer, EMI/EMC standartları
-- 📡 **IoT:** TCP/IP, MQTT, uzaktan izleme sistemleri
-- ⚙️ **Endüstriyel Otomasyon:** PLC, SCADA, endüstriyel protokoller
-- ⚡ **Güç Elektroniği:** Motor sürücüleri, güç kaynakları
-- 🔧 **Donanım Tasarımı:** Sensör entegrasyonu, analog/dijital devreler
 
 ---
 
