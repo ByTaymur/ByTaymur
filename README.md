@@ -17,34 +17,12 @@
 
 ---
 
-<!-- About Me Section with Animation -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+### 👨‍💻 Hakkımda
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hakkımda
-
-```cpp
-class MuhammedTaymur {
-private:
-    string name = "Muhammed Taymur";
-    string role = "Software Engineer";
-    string location = "Turkey 🇹🇷";
-    vector<string> languages = {"C", "C++", "Python"};
-
-public:
-    void getCurrentFocus() {
-        cout << "🔭 Gömülü Sistemler Geliştirme" << endl;
-        cout << "🌱 Sistem Seviyesi Programlama" << endl;
-        cout << "💡 IoT ve Raspberry Pi Projeleri" << endl;
-        cout << "⚡ Performans Optimizasyonu" << endl;
-    }
-
-    void sayHi() {
-        cout << "Benimle çalışmak için mesaj gönderin! 📧" << endl;
-    }
-};
-```
-
-<br clear="right"/>
+🔭 **Gömülü Sistemler Geliştirme** - Linux tabanlı sistemler ve IoT
+🌱 **Sistem Seviyesi Programlama** - C/C++ ile düşük seviye programlama
+💡 **Raspberry Pi Projeleri** - Donanım ve yazılım entegrasyonu
+⚡ **Performans Optimizasyonu** - Verimli kod yazımı
 
 ---
 
