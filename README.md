@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Merhaba+%F0%9F%91%8B+Ben+Muhammed+Taymur;G%C3%B6m%C3%BCl%C3%BC+Sistem+M%C3%BChendisiyim;4%2B+Y%C4%B1l+End%C3%BCstriyel+Deneyim" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Merhaba+%F0%9F%91%8B+Ben+Muhammed+Taymur;G%C3%B6m%C3%BCl%C3%BC+Sistem+M%C3%BChendisiyim;Mekatronik+M%C3%BChendisi" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social -->
@@ -19,15 +19,10 @@
 
 ## 👨‍💻 Hakkımda
 
-**Gömülü Yazılım Mühendisi** | Mekatronik Mühendisi | İstanbul 🇹🇷
-
-Endüstriyel otomasyon ve gömülü sistemler alanında **4+ yıl** profesyonel deneyime sahibim. ARM tabanlı mikrodenetleyiciler, IoT sistemleri, PCB tasarımı ve endüstriyel kontrol sistemleri konularında uzmanım.
-
-- 🔭 **Şu an:** Atölye Mekatronik'te tam otomatik kahve makinesi geliştiriyorum
-- 🎓 **Eğitim:** Fırat Üniversitesi - Mekatronik Mühendisliği (2020)
-- 💡 **Uzmanlık:** Gömülü C/C++, STM32, RTOS, IoT, PCB Tasarımı
-- 📍 **Konum:** İstanbul, Türkiye
-- 🌱 **Öğrenme:** RTOS optimizasyonu, EMI/EMC standartları
+🔭 **Gömülü Sistemler** - ARM, STM32 ve endüstriyel otomasyon
+🌱 **PCB Tasarımı** - Altium Designer ile donanım geliştirme
+💡 **IoT Projeleri** - Akıllı sistemler ve uzaktan kontrol
+⚡ **Güç Elektroniği** - Motor sürücüleri ve kontrol sistemleri
 
 ---
 
@@ -56,6 +51,17 @@ Endüstriyel otomasyon ve gömülü sistemler alanında **4+ yıl** profesyonel 
 ![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge)
 ![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge)
+
+---
+
+## 🎯 İlgi Alanlarım
+
+- 🔌 **Gömülü Sistemler** - Düşük seviyeli programlama ve donanım entegrasyonu
+- ⚡ **Güç Elektroniği** - Elektrik motorları ve sürücü tasarımı
+- 🖥️ **PCB Tasarımı** - Altium Designer ile profesyonel devre tasarımı
+- 📡 **IoT & Otomasyon** - Akıllı cihazlar ve endüstriyel otomasyon
+- 🔧 **RTOS** - Gerçek zamanlı işletim sistemleri
+- 🧮 **MATLAB/Simulink** - Sistem modellemesi ve simülasyon
 
 ---
 
