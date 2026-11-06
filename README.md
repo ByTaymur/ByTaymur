@@ -120,17 +120,6 @@ KiCad ve Altium ile şematikten üretime; mekatronik ürünlerde donanım–yaz�
 
 ---
 
-## `> stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ByTaymur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByTaymur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" alt="Top Languages"/>
-
-</div>
-
----
-
 ## `> contact`
 
 <div align="center">
