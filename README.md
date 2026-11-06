@@ -1,15 +1,12 @@
-<!-- Profil README: ByTaymur/ByTaymur reposunun kökündeki README.md dosyası ile değiştir -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:0b3d5c,100:00b4d8&text=Muhammed%20Taymur&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Mechatronics%20%7C%20Embedded%20%7C%20Power%20Electronics&descSize=18&descAlignY=60&animation=fadeIn" alt="Muhammed Taymur" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=640&lines=Teknik+Operasyon+%26+Ar-Ge;STM32+%C2%B7+FOC+%C2%B7+G%C3%BC%C3%A7+Elektroni%C4%9Fi;Firmware+%E2%86%92+PCB+%E2%86%92+%C3%9Cretim+Hatt%C4%B1;Fikirden+sahaya%2C+tek+elden" alt="Typing SVG"/></a>
-
 <br/>
+<sub><code>Firmware → PCB → Ürün · fikirden sahaya</code></sub>
+<br/><br/>
 
-![Konum](https://img.shields.io/badge/İstanbul-Ümraniye-0d1117?style=flat-square&logo=googlemaps&logoColor=00b4d8&labelColor=0d1117&color=00b4d8)
-![Rol](https://img.shields.io/badge/Rol-Teknik_Operasyon_|_Ar--Ge-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8)
+![Rol](https://img.shields.io/badge/Rol-Mechatronics_Engineer-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8)
 ![Odak](https://img.shields.io/badge/Odak-Gömülü_·_Güç_Elektroniği-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8)
 
 </div>
@@ -22,22 +19,20 @@
 typedef struct {
     const char *name;
     const char *role;
-    const char *company;
     const char *focus[4];
 } Engineer_t;
 
 const Engineer_t taymur = {
     .name    = "Muhammed Taymur",
-    .role    = "Mekatronik / Elektronik Mühendisi — Teknik Operasyon | Ar-Ge",
-    .company = "Atölye Mekatronik ve Danışmanlık A.Ş.",
+    .role    = "Mekatronik / Elektronik Mühendisi",
     .focus   = { "Gömülü yazılım (STM32)",
                  "Güç elektroniği & motor kontrolü",
                  "PCB tasarımı",
-                 "Atölye / üretim operasyonu" },
+                 "Mekatronik ürün geliştirme" },
 };
 ```
 
-Ar-Ge masasından üretim hattına kadar uzanan bir mühendislik yapıyorum: firmware yazıyor, güç kartı çiziyor, prototipi üretime çeviriyor ve atölyeyi koordine ediyorum. Ayda 30–40 makinelik üretim temposunda, tasarımın sahada gerçekten çalışması benim için asıl ölçü.
+Firmware yazıyor, güç elektroniği kartları tasarlıyor ve prototipleri çalışan ürüne dönüştürüyorum. Tasarımın sahada gerçekten çalışması benim için asıl ölçü.
 
 ---
 
@@ -116,7 +111,6 @@ KiCad ve Altium ile şematikten üretime; mekatronik ürünlerde donanım–yaz�
 | 🧲 **Motor kontrolü** | STM32F103 üzerinde PMSM FOC sürücüsü |
 | 🤖 **AI + gömülü** | OpenOCD'yi MCP ile bağlayarak yapay zekâ destekli gömülü hata ayıklama |
 | 🧠 **AI + PCB** | Problemden karta uzanan, KiCad tabanlı yapay zekâ destekli tasarım fikri |
-| 🏭 **Operasyon** | Atölye yönetimi, tedarik ve kalite geri dönüş süreçleri |
 
 ---
 
@@ -132,8 +126,6 @@ KiCad ve Altium ile şematikten üretime; mekatronik ürünlerde donanım–yaz�
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ByTaymur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" alt="GitHub Stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByTaymur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ByTaymur&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="Streak" height="150"/>
 
 </div>
 
