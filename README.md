@@ -67,67 +67,53 @@ KiCad ve Altium ile şematikten üretime; mekatronik ürünlerde donanım–yaz�
 
 <div align="center">
 
-**Firmware & Yazılım**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**Donanım & Platformlar**
-
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2F7D32?style=for-the-badge&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Tasarım & Araçlar**
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium_Designer-F7A500?style=for-the-badge&logoColor=black)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=white)
-
-**Protokoller**
-
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8)
-![I2C](https://img.shields.io/badge/I²C-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8)
-![SPI](https://img.shields.io/badge/SPI-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8)
-![UART](https://img.shields.io/badge/UART-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8)
-![CAN](https://img.shields.io/badge/CAN-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8)
+<img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,arduino,raspberrypi,linux,git,vscode,cmake&theme=dark&perline=10" alt="stack"/>
 
 </div>
 
+| Katman | Araçlar |
+|:--|:--|
+| **Firmware** | `C` `C++` `Python` `FreeRTOS` `STM32 HAL / SPL` |
+| **Donanım** | `STM32 / ARM Cortex-M` `RP2040` `Raspberry Pi` `Arduino` |
+| **Tasarım** | `KiCad` `Altium Designer` `MATLAB / Simulink` `FreeCAD` `Fusion 360` |
+| **Protokol** | `UART` `SPI` `I²C` `CAN` `MDB` `MQTT` `TCP/IP` |
+
 ---
 
-## `> now`
+## `> projects`
 
-| Alan | Ne üzerinde çalışıyorum |
+### 🤖 AI × Mühendislik
+
+| Proje | Ne yapar |
 |:--|:--|
-| 🔧 **Firmware** | Türk kahvesi ve espresso makineleri için STM32 tabanlı kontrol yazılımı ve saha log/tanılama araçları |
-| 🧲 **Motor kontrolü** | STM32F103 üzerinde PMSM FOC sürücüsü |
-| 🤖 **AI + gömülü** | OpenOCD'yi MCP ile bağlayarak yapay zekâ destekli gömülü hata ayıklama |
-| 🧠 **AI + PCB** | Problemden karta uzanan, KiCad tabanlı yapay zekâ destekli tasarım fikri |
+| [**PcbAi**](https://github.com/ByTaymur/PcbAi) | KiCad projelerini yapay zekâ ajanlarına yerel MCP araçlarıyla açan Python çekirdeği: şematik/kart okuma, ERC/DRC, PCB ölçümleri |
+| [**CadAI**](https://github.com/ByTaymur/CadAI) | Parçayı göster, değişikliği tarif et, gerisini AI yapsın. FreeCAD ve Fusion 360 adaptörleri |
+| [**embedded-software-skills**](https://github.com/ByTaymur/embedded-software-skills) | STM32 / Cortex-M firmware geliştirme için AI skill, komut ve ajan paketi |
+| [**AiMonitor-LmStudio**](https://github.com/ByTaymur/AiMonitor-LmStudio) | Uzak sunucuları ve LM Studio'yu izleyen açık kaynak araç |
+
+### 🛠️ Gömülü Geliştirme Araçları
+
+| Proje | Ne yapar |
+|:--|:--|
+| [**stm32-professional-compiler**](https://github.com/ByTaymur/stm32-professional-compiler) | VS Code / VSCodium için açık kaynak STM32 geliştirme ortamı |
+| [**ArmEditor**](https://github.com/ByTaymur/ArmEditor) | ARM Cortex-M mikrodenetleyiciler için açık kaynak IDE |
+| [**STM32-Ultimate-Project-Setup-Tool**](https://github.com/ByTaymur/STM32-Ultimate-Project-Setup-Tool) | STM32 projelerini hızlı ve düzenli kurmak için araç |
+| [**RPI-to-STM-Code-Upload**](https://github.com/ByTaymur/RPI-to-STM-Code-Upload) | Raspberry Pi üzerinden bootloader ile STM32'ye kod yükleme |
+
+### ⚡ Ölçüm & Protokol
+
+| Proje | Ne yapar |
+|:--|:--|
+| [**differential-harmonic-analyzer**](https://github.com/ByTaymur/differential-harmonic-analyzer) | KCL ile şebekeden izole THD ölçümü yapan DIY harmonik analizör |
+| [**MDB-Protocol-Decoder**](https://github.com/ByTaymur/MDB-Protocol-Decoder) | Saleae Logic için MDB (Multi-Drop Bus) çözücü: cashless, coin changer, bill validator |
+
+<sub>Diğer: [I2C_MCP23017_DMA](https://github.com/ByTaymur/I2C_MCP23017_DMA) · [WS2812Stm32f446](https://github.com/ByTaymur/WS2812Stm32f446) · [TcpIp-Gsm.Stm32](https://github.com/ByTaymur/TcpIp-Gsm.Stm32) · [Oyuncak_Rp2040](https://github.com/ByTaymur/Oyuncak_Rp2040)</sub>
 
 ---
 
 ## `> interests`
 
 `LiDAR & mesafe algılama` · `RTOS` · `MATLAB/Simulink modelleme` · `IoT & endüstriyel otomasyon` · `Sahada çalışan donanım`
-
----
-
-## `> stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ByTaymur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByTaymur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" alt="Top Languages"/>
-
-</div>
 
 ---
 
