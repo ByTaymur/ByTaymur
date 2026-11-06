@@ -103,20 +103,51 @@ KiCad ve Altium ile şematikten üretime; mekatronik ürünlerde donanım–yaz�
 
 ---
 
-## `> now`
+## `> projects`
 
-| Alan | Ne üzerinde çalışıyorum |
+### 🤖 AI × Mühendislik
+
+| Proje | Ne yapar |
 |:--|:--|
-| 🔧 **Firmware** | Türk kahvesi ve espresso makineleri için STM32 tabanlı kontrol yazılımı ve saha log/tanılama araçları |
-| 🧲 **Motor kontrolü** | STM32F103 üzerinde PMSM FOC sürücüsü |
-| 🤖 **AI + gömülü** | OpenOCD'yi MCP ile bağlayarak yapay zekâ destekli gömülü hata ayıklama |
-| 🧠 **AI + PCB** | Problemden karta uzanan, KiCad tabanlı yapay zekâ destekli tasarım fikri |
+| [**PcbAi**](https://github.com/ByTaymur/PcbAi) | KiCad projelerini yapay zekâ ajanlarına yerel MCP araçlarıyla açan Python çekirdeği: şematik/kart okuma, ERC/DRC, PCB ölçümleri |
+| [**CadAI**](https://github.com/ByTaymur/CadAI) | Parçayı göster, değişikliği tarif et, gerisini AI yapsın. FreeCAD ve Fusion 360 adaptörleri |
+| [**embedded-software-skills**](https://github.com/ByTaymur/embedded-software-skills) | STM32 / Cortex-M firmware geliştirme için AI skill, komut ve ajan paketi |
+| [**AiMonitor-LmStudio**](https://github.com/ByTaymur/AiMonitor-LmStudio) | Uzak sunucuları ve LM Studio'yu izleyen açık kaynak araç |
+
+### 🛠️ Gömülü Geliştirme Araçları
+
+| Proje | Ne yapar |
+|:--|:--|
+| [**stm32-professional-compiler**](https://github.com/ByTaymur/stm32-professional-compiler) | VS Code / VSCodium için açık kaynak STM32 geliştirme ortamı |
+| [**ArmEditor**](https://github.com/ByTaymur/ArmEditor) | ARM Cortex-M mikrodenetleyiciler için açık kaynak IDE |
+| [**STM32-Ultimate-Project-Setup-Tool**](https://github.com/ByTaymur/STM32-Ultimate-Project-Setup-Tool) | STM32 projelerini hızlı ve düzenli kurmak için araç |
+| [**RPI-to-STM-Code-Upload**](https://github.com/ByTaymur/RPI-to-STM-Code-Upload) | Raspberry Pi üzerinden bootloader ile STM32'ye kod yükleme |
+
+### ⚡ Ölçüm & Protokol
+
+| Proje | Ne yapar |
+|:--|:--|
+| [**differential-harmonic-analyzer**](https://github.com/ByTaymur/differential-harmonic-analyzer) | KCL ile şebekeden izole THD ölçümü yapan DIY harmonik analizör |
+| [**MDB-Protocol-Decoder**](https://github.com/ByTaymur/MDB-Protocol-Decoder) | Saleae Logic için MDB (Multi-Drop Bus) çözücü: cashless, coin changer, bill validator |
+
+<sub>Diğer: [I2C_MCP23017_DMA](https://github.com/ByTaymur/I2C_MCP23017_DMA) · [WS2812Stm32f446](https://github.com/ByTaymur/WS2812Stm32f446) · [TcpIp-Gsm.Stm32](https://github.com/ByTaymur/TcpIp-Gsm.Stm32) · [Oyuncak_Rp2040](https://github.com/ByTaymur/Oyuncak_Rp2040)</sub>
 
 ---
 
 ## `> interests`
 
 `LiDAR & mesafe algılama` · `RTOS` · `MATLAB/Simulink modelleme` · `IoT & endüstriyel otomasyon` · `Sahada çalışan donanım`
+
+---
+
+## `> stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ByTaymur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByTaymur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" alt="Top Languages"/>
+
+</div>
 
 ---
 
