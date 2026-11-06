@@ -1,120 +1,155 @@
-<!-- Animated Header -->
+<!-- Profil README: ByTaymur/ByTaymur reposunun kökündeki README.md dosyası ile değiştir -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammed%20Taymur&fontSize=42&fontAlignY=32&desc=Embedded%20Systems%20Engineer%20%7C%20IoT%20%7C%20Mechatronics&descAlignY=51&descAlign=50&animation=twinkling" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:0b3d5c,100:00b4d8&text=Muhammed%20Taymur&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Mechatronics%20%7C%20Embedded%20%7C%20Power%20Electronics&descSize=18&descAlignY=60&animation=fadeIn" alt="Muhammed Taymur" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=640&lines=Teknik+Operasyon+%26+Ar-Ge;STM32+%C2%B7+FOC+%C2%B7+G%C3%BC%C3%A7+Elektroni%C4%9Fi;Firmware+%E2%86%92+PCB+%E2%86%92+%C3%9Cretim+Hatt%C4%B1;Fikirden+sahaya%2C+tek+elden" alt="Typing SVG"/></a>
+
+<br/>
+
+![Konum](https://img.shields.io/badge/İstanbul-Ümraniye-0d1117?style=flat-square&logo=googlemaps&logoColor=00b4d8&labelColor=0d1117&color=00b4d8)
+![Rol](https://img.shields.io/badge/Rol-Teknik_Operasyon_|_Ar--Ge-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8)
+![Odak](https://img.shields.io/badge/Odak-Gömülü_·_Güç_Elektroniği-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8)
+
 </div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Merhaba+%F0%9F%91%8B+Ben+Muhammed+Taymur;G%C3%B6m%C3%BCl%C3%BC+Sistem+M%C3%BChendisi;Mekatronik+M%C3%BChendisi;IoT+ve+Otomasyon+Uzman%C4%B1" alt="Typing SVG" />
-  </a>
-</p>
+---
 
-<!-- Animated Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded_Systems-Expert-red?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-ARM-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/PCB_Design-Altium-green?style=for-the-badge&logo=altium-designer&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-MQTT-purple?style=for-the-badge&logo=mqtt&logoColor=white" />
-</p>
+## `> whoami`
+
+```c
+typedef struct {
+    const char *name;
+    const char *role;
+    const char *company;
+    const char *focus[4];
+} Engineer_t;
+
+const Engineer_t taymur = {
+    .name    = "Muhammed Taymur",
+    .role    = "Mekatronik / Elektronik Mühendisi — Teknik Operasyon | Ar-Ge",
+    .company = "Atölye Mekatronik ve Danışmanlık A.Ş.",
+    .focus   = { "Gömülü yazılım (STM32)",
+                 "Güç elektroniği & motor kontrolü",
+                 "PCB tasarımı",
+                 "Atölye / üretim operasyonu" },
+};
+```
+
+Ar-Ge masasından üretim hattına kadar uzanan bir mühendislik yapıyorum: firmware yazıyor, güç kartı çiziyor, prototipi üretime çeviriyor ve atölyeyi koordine ediyorum. Ayda 30–40 makinelik üretim temposunda, tasarımın sahada gerçekten çalışması benim için asıl ölçü.
 
 ---
 
-## 👨‍💻 Hakkımda
+## `> focus`
 
-🔭 **Gömülü Sistemler** - ARM, STM32 ve endüstriyel otomasyon
-🌱 **PCB Tasarımı** - Altium Designer ile donanım geliştirme
-💡 **IoT Projeleri** - Akıllı sistemler ve uzaktan kontrol
-⚡ **Güç Elektroniği** - Motor sürücüleri ve kontrol sistemleri
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔩 Gömülü Sistemler
+STM32 ekosistemi (HAL / SPL), RTOS, düşük seviyeli sürücüler, hata ayıklama ve saha tanılama araçları.
+
+### ⚡ Güç Elektroniği
+IPM tabanlı sürücüler, indüksiyon ısıtma, güç kartı tasarımı ve doğrulaması.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌀 Motor Kontrolü
+PMSM için FOC, sensörsüz kontrol (akademik yayın), akım/gerilim ölçüm zincirleri.
+
+### 🧩 PCB & Ürün Geliştirme
+KiCad ve Altium ile şematikten üretime; mekatronik ürünlerde donanım–yazılım–mekanik bütünlüğü.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Teknoloji Yığınım
+## `> stack`
 
-### 💻 Programlama & Yazılım
+<div align="center">
+
+**Firmware & Yazılım**
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-03599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### ⚙️ Gömülü Sistemler & Donanım
+**Donanım & Platformlar**
+
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2F7D32?style=for-the-badge&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 🔧 Araçlar & Platformlar
-![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+**Tasarım & Araçlar**
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium_Designer-F7A500?style=for-the-badge&logoColor=black)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=white)
 
-### 📡 Protokoller & İletişim
+**Protokoller**
+
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge)
-![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8)
+![I2C](https://img.shields.io/badge/I²C-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8)
+![SPI](https://img.shields.io/badge/SPI-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8)
+![UART](https://img.shields.io/badge/UART-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8)
+![CAN](https://img.shields.io/badge/CAN-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8)
 
----
-
-## 🎯 İlgi Alanlarım
-
-- 🔌 **Gömülü Sistemler** - Düşük seviyeli programlama ve donanım entegrasyonu
-- ⚡ **Güç Elektroniği** - Elektrik motorları ve sürücü tasarımı
-- 🖥️ **PCB Tasarımı** - Altium Designer ile profesyonel devre tasarımı
-- 📡 **IoT & Otomasyon** - Akıllı cihazlar ve endüstriyel otomasyon
-- 🔧 **RTOS** - Gerçek zamanlı işletim sistemleri
-- 📡 **LiDAR Sensörleri** - Mesafe ölçümü ve nesne algılama sistemleri
-- 🧮 **MATLAB/Simulink** - Sistem modellemesi ve simülasyon
-
----
-
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByTaymur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByTaymur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByTaymur&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByTaymur&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
 
-## 🌐 Benimle İletişime Geçin
+## `> now`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammed-taymur-aaa770281">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ByTaymur">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:muhammed.taymur@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+| Alan | Ne üzerinde çalışıyorum |
+|:--|:--|
+| 🔧 **Firmware** | Türk kahvesi ve espresso makineleri için STM32 tabanlı kontrol yazılımı ve saha log/tanılama araçları |
+| 🧲 **Motor kontrolü** | STM32F103 üzerinde PMSM FOC sürücüsü |
+| 🤖 **AI + gömülü** | OpenOCD'yi MCP ile bağlayarak yapay zekâ destekli gömülü hata ayıklama |
+| 🧠 **AI + PCB** | Problemden karta uzanan, KiCad tabanlı yapay zekâ destekli tasarım fikri |
+| 🏭 **Operasyon** | Atölye yönetimi, tedarik ve kalite geri dönüş süreçleri |
 
 ---
 
+## `> interests`
+
+`LiDAR & mesafe algılama` · `RTOS` · `MATLAB/Simulink modelleme` · `IoT & endüstriyel otomasyon` · `Sahada çalışan donanım`
+
+---
+
+## `> stats`
+
 <div align="center">
 
-### 💖 Projelerime Destek Olun
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ByTaymur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByTaymur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" alt="Top Languages"/>
 
-Projelerimi beğendiyseniz ⭐ vermeyi unutmayın!
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-**2025 - Muhammed Taymur | Embedded Systems Engineer**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ByTaymur&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="Streak" height="150"/>
 
 </div>
 
-<!-- Animated Footer -->
+---
+
+## `> contact`
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+[![E-posta](https://img.shields.io/badge/E--posta-tymr.mhe@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117&color=00b4d8)](mailto:tymr.mhe@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ByTaymur-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117&color=00b4d8)](https://github.com/ByTaymur)
+
+<sub>Projelerimi faydalı bulduysan ⭐ bırakman çok kıymetli.</sub>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00b4d8,50:0b3d5c,100:0d1117&section=footer" width="100%" alt=""/>
+
+<div align="center"><sub>© 2026 Muhammed Taymur · Mechatronics Engineer</sub></div>
