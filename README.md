@@ -1,65 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:0b3d5c,100:00b4d8&text=Muhammed%20Taymur&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Mechatronics%20%7C%20Embedded%20%7C%20Power%20Electronics&descSize=18&descAlignY=60&animation=fadeIn" alt="Muhammed Taymur" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:0b3d5c,100:00b4d8&text=Muhammed%20Taymur&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Mechatronics%20Engineer&descSize=18&descAlignY=62&animation=fadeIn" alt="Muhammed Taymur — Mechatronics Engineer: embedded firmware, power electronics, motor control, PCB design" width="100%"/>
 
-<br/>
-<sub><code>Firmware → PCB → Ürün · fikirden sahaya</code></sub>
-<br/><br/>
-
-![Rol](https://img.shields.io/badge/Rol-Mechatronics_Engineer-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8)
-![Odak](https://img.shields.io/badge/Odak-Gömülü_·_Güç_Elektroniği-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8)
+**Mekatronik Mühendisi** · Gömülü Yazılım · Güç Elektroniği · Motor Kontrolü · PCB Tasarımı · AI × Donanım Araçları
 
 </div>
 
 ---
 
-## `> whoami`
+## `> about`
 
-```c
-typedef struct {
-    const char *name;
-    const char *role;
-    const char *focus[4];
-} Engineer_t;
+**Muhammed Taymur — Mekatronik Mühendisi.** Gömülü yazılım (STM32 / ARM Cortex-M), güç elektroniği ve motor kontrolü (PMSM, FOC) üzerine çalışıyorum; PCB tasarımından prototipe ve üretime kadar ürün geliştiriyorum. Mühendislik araçlarını (KiCad, FreeCAD / Fusion 360, STM32 araç zinciri) yapay zekâ ajanlarına bağlayan açık kaynak MCP araçları geliştiriyorum.
 
-const Engineer_t taymur = {
-    .name    = "Muhammed Taymur",
-    .role    = "Mekatronik Mühendisi",
-    .focus   = { "Gömülü yazılım (STM32)",
-                 "Güç elektroniği & motor kontrolü",
-                 "PCB tasarımı",
-                 "Mekatronik ürün geliştirme" },
-};
-```
-
-Firmware yazıyor, güç elektroniği kartları tasarlıyor ve prototipleri çalışan ürüne dönüştürüyorum. Tasarımın sahada gerçekten çalışması benim için asıl ölçü.
+**EN:** Mechatronics engineer focused on STM32 / ARM Cortex-M firmware, power electronics, PMSM / FOC motor control and PCB design, taking products from schematic to production. I build open-source MCP tools that connect AI agents to KiCad, CAD and embedded toolchains.
 
 ---
 
-## `> focus`
+## `> expertise`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔩 Gömülü Sistemler
-STM32 ekosistemi (HAL / SPL), RTOS, düşük seviyeli sürücüler, hata ayıklama ve saha tanılama araçları.
-
-### ⚡ Güç Elektroniği
-IPM tabanlı sürücüler, indüksiyon ısıtma, güç kartı tasarımı ve doğrulaması.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌀 Motor Kontrolü
-PMSM için FOC, sensörsüz kontrol (akademik yayın), akım/gerilim ölçüm zincirleri.
-
-### 🧩 PCB & Ürün Geliştirme
-KiCad ve Altium ile şematikten üretime; mekatronik ürünlerde donanım–yazılım–mekanik bütünlüğü.
-
-</td>
-</tr>
-</table>
+| Alan | Ne yapıyorum | Kanıt |
+|:--|:--|:--|
+| **Gömülü yazılım** | STM32 / ARM Cortex-M firmware (HAL / SPL), RTOS, bootloader, geliştirme araçları | [stm32-professional-compiler](https://github.com/ByTaymur/stm32-professional-compiler), [ArmEditor](https://github.com/ByTaymur/ArmEditor), [RPI-to-STM-Code-Upload](https://github.com/ByTaymur/RPI-to-STM-Code-Upload), [embedded-software-skills](https://github.com/ByTaymur/embedded-software-skills) |
+| **Motor kontrolü** | PMSM için FOC ve sensörsüz kontrol | Sensörsüz PMSM kontrolü üzerine akademik yayın (ortak yazar) |
+| **Güç elektroniği** | IPM tabanlı sürücüler, indüksiyon ısıtma, güç kartı tasarımı, güç kalitesi ölçümü | [differential-harmonic-analyzer](https://github.com/ByTaymur/differential-harmonic-analyzer) |
+| **PCB & ürün geliştirme** | KiCad ve Altium ile şematikten üretime; donanım–yazılım–mekanik bütünlüğü | [PcbAi](https://github.com/ByTaymur/PcbAi) |
+| **AI × mühendislik araçları** | KiCad, CAD ve gömülü araç zincirini AI ajanlarına bağlayan MCP araçları | [PcbAi](https://github.com/ByTaymur/PcbAi), [CadAI](https://github.com/ByTaymur/CadAI), [embedded-software-skills](https://github.com/ByTaymur/embedded-software-skills) |
+| **Protokol & ölçüm** | UART, SPI, I²C, CAN, MDB; lojik analizör ile protokol çözümleme | [MDB-Protocol-Decoder](https://github.com/ByTaymur/MDB-Protocol-Decoder) |
 
 ---
 
@@ -78,28 +44,19 @@ KiCad ve Altium ile şematikten üretime; mekatronik ürünlerde donanım–yaz�
 
 ## `> projects`
 
-### 🤖 AI × Mühendislik
-
 | Proje | Açıklama | Dil |
 |:--|:--|:--:|
+| **🤖 AI × Mühendislik** | | |
 | [PcbAi](https://github.com/ByTaymur/PcbAi) | KiCad projelerini AI ajanlarına yerel MCP araçlarıyla açan çekirdek: şematik/kart okuma, ERC/DRC, PCB ölçümleri | `Python` |
 | [CadAI](https://github.com/ByTaymur/CadAI) | Parçayı göster, değişikliği tarif et, gerisini AI yapsın. FreeCAD ve Fusion 360 adaptörleri | `Python` |
 | [embedded-software-skills](https://github.com/ByTaymur/embedded-software-skills) | STM32 / Cortex-M firmware geliştirme için AI skill, slash komut ve ajan paketi | `Python` |
 | [AiMonitor-LmStudio](https://github.com/ByTaymur/AiMonitor-LmStudio) | Uzak sunucuları ve LM Studio'yu izleyen açık kaynak izleme aracı | `Python` |
-
-### 🛠️ Gömülü Geliştirme Araçları
-
-| Proje | Açıklama | Dil |
-|:--|:--|:--:|
+| **🛠️ Gömülü Geliştirme Araçları** | | |
 | [stm32-professional-compiler](https://github.com/ByTaymur/stm32-professional-compiler) | VS Code / VSCodium için açık kaynak STM32 geliştirme ortamı | `TypeScript` |
 | [ArmEditor](https://github.com/ByTaymur/ArmEditor) | ARM Cortex-M mikrodenetleyiciler için açık kaynak IDE | `C` |
 | [STM32-Ultimate-Project-Setup-Tool](https://github.com/ByTaymur/STM32-Ultimate-Project-Setup-Tool) | STM32 projelerini hızlı ve düzenli kurmak için araç | `STM32` |
 | [RPI-to-STM-Code-Upload](https://github.com/ByTaymur/RPI-to-STM-Code-Upload) | Raspberry Pi üzerinden bootloader ile STM32'ye kod yükleme | `C` |
-
-### ⚡ Ölçüm & Protokol
-
-| Proje | Açıklama | Dil |
-|:--|:--|:--:|
+| **⚡ Ölçüm & Protokol** | | |
 | [differential-harmonic-analyzer](https://github.com/ByTaymur/differential-harmonic-analyzer) | KCL ile şebekeden izole THD ölçümü yapan DIY harmonik analizör | `Python` |
 | [MDB-Protocol-Decoder](https://github.com/ByTaymur/MDB-Protocol-Decoder) | Saleae Logic için MDB çözücü: cashless, coin changer, bill validator | `Python` |
 
@@ -115,15 +72,8 @@ KiCad ve Altium ile şematikten üretime; mekatronik ürünlerde donanım–yaz�
 
 ## `> contact`
 
-<div align="center">
+📧 [tymr.mhe@gmail.com](mailto:tymr.mhe@gmail.com) · 🐙 [github.com/ByTaymur](https://github.com/ByTaymur)
 
-[![E-posta](https://img.shields.io/badge/E--posta-tymr.mhe@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117&color=00b4d8)](mailto:tymr.mhe@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ByTaymur-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117&color=00b4d8)](https://github.com/ByTaymur)
+Projelerimi faydalı bulduysan ⭐ bırakman çok kıymetli.
 
-<sub>Projelerimi faydalı bulduysan ⭐ bırakman çok kıymetli.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00b4d8,50:0b3d5c,100:0d1117&section=footer" width="100%" alt=""/>
-
-<div align="center"><sub>© 2026 Muhammed Taymur · Mechatronics Engineer</sub></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00b4d8,50:0b3d5c,100:0d1117&section=footer" width="100%" alt=""/>
